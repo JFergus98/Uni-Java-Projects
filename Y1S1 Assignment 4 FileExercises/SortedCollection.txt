@@ -1,0 +1,18 @@
+Film 0 :
+Title - Joker
+Director - Todd Phillips
+Run time - 122 minutes
+cost - £ 20.0.
+
+Film 1 :
+Title - Batman Begins
+Director - Christopher Nolan
+Run time - 140 minutes
+cost - £ 10.0.
+
+Film 2 :
+Title - The Dark Knight
+Director - Christopher Nolan
+Run time - 152 minutes
+cost - £ 15.0.
+

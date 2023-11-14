@@ -1,0 +1,6 @@
+Bush, Mildred: Average Score is 57.4
+Snooks, Fred: Average Score is 43.8
+Callar, Morvern: Average Score is 61.4
+Powell, Colin: Average Score is 68.2
+Blair, Tony: Average Score is 46.2
+Gregor, Peter: Average Score is 99.0
