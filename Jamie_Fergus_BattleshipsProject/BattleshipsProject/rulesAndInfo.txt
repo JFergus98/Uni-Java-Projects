@@ -1,0 +1,41 @@
+Rules & Info
+
+Rules of Battleships
+
+Battleships is a guessing game between two players wherein they attempt to guess the
+presence of each other's fleet of battleships within a two-dimensional grid.
+
+At the start of the game each player should decide where to hide his or her fleet of
+ships within their grid. A fleet is made up of one Battleship, two Cruisers, three
+Destroyers and four Submarines. Each ship is a different size and, therefore, covers a
+different number of boxes in the grid. The ships can only be positioned vertically or
+horizontally on the grid, not diagonally. The grid is a of size 10 by 10 squares
+wherein the columns are identified by numbers A to J and the rows identified by
+letters 1 to 10.
+
+To place a ship on the grid, check how many boxes on the grid it will require and
+then write the first letter of the name of the ship in the boxes it covers. For 
+example, a Cruiser covers three boxes so you would pick any three adjacent boxes and 
+put the letter C in each box. When each player has marked their fleet on their grid, 
+it's time to play.
+
+To play the game, players take turns to "shoot" at their opponents' fleet by calling
+out the number of a certain box, e.g. "A1" or "H4" or whatever they happen to choose. 
+The opponent must say whether the shot has missed or hit. After a play hits or misses, 
+it's the end of their turn. Players can use a spare grid to mark down the boxes that 
+they have shot at to keep a record of where their hits and misses have been. Note: a 
+single hit doesn't necessarily sink a ship. A ship is sunk when all the boxes that it 
+covers on the grid have received hits. Play continues until one player wins by 
+successfully sinking the whole of the opposing fleet.
+
+
+The Fleet
+
+When you start a new game you will need to position all your ships which are:
+- 1 Battleship which take up 5 grid spaces
+- 2 Cruisers which take up 4 grid spaces
+- 3 Destroyers which take up 3 grid spaces
+- 4 Submarines which take up 2 grid spaces
+
+You do this by typing in the grid coordinate of the start position when prompted and
+the direction to draw the ship in.
